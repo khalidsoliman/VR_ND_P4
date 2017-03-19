@@ -1,6 +1,6 @@
 # Udacity_VR_ND_P4
 
-Creating Puzzle With Simon Says method
+Creating Puzzle With ' Simon Says' method
 
 # Development 
 
@@ -38,7 +38,7 @@ It's the Fourth project in Udacity VR developer nanodegree that users have to so
 
 ## Run 
 
-You have to put this file inside " Puzzler Starter / Assets " folder 
+* You have to put this file inside " Puzzler Starter / Assets " folder 
 
 ## Building Quality 
 
@@ -48,7 +48,7 @@ You have to put this file inside " Puzzler Starter / Assets " folder
 
 * App building specifications 
  
-* Product Name = “Course 3 Project”
+* Product Name = “Course 4 Project”
 
 * Default Orientation: ""Landscape Left""
 
@@ -70,8 +70,6 @@ You have to put this file inside " Puzzler Starter / Assets " folder
 
 * Bake Padding = 2 
 
-* Final Gather " Enabled " 
-
 ## GVRViewer
 
 * GVR_SDK_VERSION = "1.1"
@@ -80,8 +78,8 @@ You have to put this file inside " Puzzler Starter / Assets " folder
  
 ## Challenge 
 
-* Optimize the performance for Mobile Graphics ( The performance may differ from device to others )  
+* The outcomes must fit user expectations 
 
 ## License
 
-`Udacity_VR_ND_P3` is a public domain work, dedicated using **MIT License** . Feel free to do whatever you want with it.
+`Udacity_VR_ND_P4` is a public domain work, dedicated using **MIT License** . Feel free to do whatever you want with it.
